@@ -13,7 +13,7 @@ Building scalable products — design systems, platform architecture, GraphQL se
 Right now: frontend lead by day, indie toolmaker by night.
 
 [![LinkedIn](https://img.shields.io/badge/Iaroslav%20Grishunin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaros%C5%82aw-grishunin/)
-[![Portfolio](https://img.shields.io/badge/ekrijel.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.ekrijel.workers.dev/)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.ekrijel.workers.dev/)
 [![Medium](https://img.shields.io/badge/oslavdev-000000?style=for-the-badge&logo=medium&logoColor=white)](https://oslavdev.medium.com)
 [![Email](https://img.shields.io/badge/oslav@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:oslav@proton.me)
 
