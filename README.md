@@ -67,7 +67,7 @@ Real capture of me at work:
 
 ### Shipped
 
-**[Inkgraph](https://inkgraph.com)** — visual dialogue tree editor for visual novels and tabletop RPGs.  
+**[Inkgraph](https://www.inkgraph.com)** — visual dialogue tree editor for visual novels and tabletop RPGs.  
 Nodes, choices, conditions, character management, built-in simulator, cloud saves. Free, in beta.  
 `React Router 7` `SQLite` `Drizzle` `better-auth` `Resend` `Railway`
 
