@@ -71,11 +71,6 @@ Real capture of me at work:
 Nodes, choices, conditions, character management, built-in simulator, cloud saves. Free, in beta.  
 `React Router 7` `SQLite` `Drizzle` `better-auth` `Resend` `Railway`
 
-**[Neuronopolis](https://neuronopolis-game.vercel.app/)** — 3D multiplayer hacker battle game. Pick a node, attack the network, outmanoeuvre other players.  
-`Three.js` `WebSockets` `Node.js`
-
-**[MixRef](https://mixref.ekrijel.workers.dev/)** — mixing reference tool. EQ guides, compression settings, genre filters, 50+ term glossary. Built because my memory is terrible.  
-`Vanilla JS` `SCSS` `Cloudflare Workers`
 
 ---
 
