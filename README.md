@@ -7,7 +7,7 @@
 ╚═╝ ╚═════╝
 ```
 
-**Senior Frontend Engineer** · 9+ years · Sweden
+**Senior Frontend Engineer** · Sweden
 
 Building scalable products — design systems, platform architecture, GraphQL services, servers, occasional 3D.  
 Right now: frontend lead by day, indie toolmaker by night.
