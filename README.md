@@ -7,37 +7,12 @@
 ╚═╝ ╚═════╝
 ```
 
-**Senior Frontend Engineer** · Sweden
+**Senior Software Engineer** · Sweden
 
 Building scalable products — design systems, platform architecture, GraphQL services, servers, occasional 3D.  
-Right now: frontend lead by day, indie toolmaker by night.
 
 [![LinkedIn](https://img.shields.io/badge/Iaroslav%20Grishunin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaros%C5%82aw-grishunin/)
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://oslav-development.com/)
-[![Medium](https://img.shields.io/badge/oslavdev-000000?style=for-the-badge&logo=medium&logoColor=white)](https://oslavdev.medium.com)
 [![Email](https://img.shields.io/badge/oslav@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:oslav@proton.me)
-
----
-
-### What I do at work
-
-- Ship production frontend with TypeScript, React, Next.js, Remix, React Router — whatever the job needs
-- Design systems from scratch — Figma tokens, Storybook, live theming at scale across many brands
-- Frontend architecture — hexagonal structure, monorepos, platform-agnostic packages
-- GraphQL proxy servers, REST APIs, PostgreSQL — backend when the frontend demands it
-- Tech lead things — roadmaps, architecture decisions, hiring, setting standards nobody follows immediately
-- Three.js, React Three Fiber, GLSL — real-time 3D when someone lets me near it
-
----
-
-### What I do outside work
-
-- TypeScript and React by day, Rust and regret by night
-- Automating things that would take an hour — because writing the script is more interesting than doing the thing
-- Building Node.js servers with PostgreSQL
-- Exploring WebGL — Three.js, Rapier, GLSL shaders
-- Configuring build tools nobody asked me to touch (webpack, vite, CI pipelines — yes, all of them)
-- Occasionally making (and never finishing) games
 
 Real capture of me at work:
 ```
@@ -63,16 +38,6 @@ Real capture of me at work:
 '-  ()_.\,\,   -
 ```
 
----
-
-### Shipped
-
-**[Inkgraph](https://www.inkgraph.com)** — visual dialogue tree editor for visual novels and tabletop RPGs.  
-Nodes, choices, conditions, character management, built-in simulator, cloud saves. Free, in beta.  
-`React Router 7` `SQLite` `Drizzle` `better-auth` `Resend` `Railway`
-
-
----
 
 ### Abandoned experiments and unfinished things
 
